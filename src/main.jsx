@@ -8,7 +8,7 @@ import {AppMain} from './AppMain.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    {/*<App />*/}
+    {/*<App />*/} /*Comentamos el componente App para mostrar el componente AppMain*/
     <AppMain />
   </StrictMode>
 )
