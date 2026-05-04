@@ -10,5 +10,5 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     {/*<App />*/}
     <AppMain />
-  </StrictMode>,
+  </StrictMode>
 )
